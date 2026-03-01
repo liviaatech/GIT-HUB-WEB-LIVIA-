@@ -2,3 +2,4 @@
 Atividade Prática GitHub Web
 # SOBRE
 # TECNOLOGIAS
+:smile: :sparkles:
